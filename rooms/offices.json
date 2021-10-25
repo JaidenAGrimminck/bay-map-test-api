@@ -1,0 +1,49 @@
+[
+   {
+      "room":100,
+      "owners":[
+         "person",
+         "person 2"
+      ]
+   },
+   {
+      "room":101,
+      "owners":[
+         "person 3",
+         "person 4"
+      ]
+   },
+   {
+      "room":102,
+      "owners":[
+         "person 5"
+      ]
+   },
+   {
+      "room":103,
+      "owners":[
+         "person 6"
+      ]
+   },
+   {
+      "room":104,
+      "owners":[
+         "adam",
+         "john"
+      ]
+   },
+   {
+      "room":105,
+      "owners":[
+         "lewis",
+         "jake"
+      ]
+   },
+   {
+      "room":106,
+      "owners":[
+         "eva",
+         "mr. mister"
+      ]
+   }
+]
